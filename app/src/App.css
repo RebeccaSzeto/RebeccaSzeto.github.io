@@ -48,3 +48,7 @@ p, li{
   color: #8a61fb;
 }
 
+ul{
+  list-style: none; 
+}
+

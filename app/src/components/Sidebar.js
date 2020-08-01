@@ -29,7 +29,8 @@ render() {
                 <li>Critical thinking</li>
                 <li>Time management</li>
                 <li>Web language: nodejs + reactjs</li>
-                <li>Web DevOps: nginx + linux</li>
+                <li>Web DevOps: containers</li>
+                <li>Cloud: Azure + GCP</li>
                 <li>App Language: C#</li>
                 <li>Mobile Language: Xamarin</li>
             </ul>
